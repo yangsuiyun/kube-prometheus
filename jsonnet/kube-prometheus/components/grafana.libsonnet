@@ -1,4 +1,4 @@
-local kubernetesGrafana = import 'github.com/brancz/kubernetes-grafana/grafana/grafana.libsonnet';
+local kubernetesGrafana = import 'github.com/yangsuiyun/kubernetes-grafana/grafana/grafana.libsonnet';
 
 local defaults = {
   local defaults = self,
